@@ -1,4 +1,4 @@
-# EDA-project-for-Telecommunication-dataset
+# EDA-project-for-telcom-dataset
 # Energy Consumption and Demand Analysis
 
 This project focuses on analyzing energy consumption and demand data to identify patterns, detect anomalies, and provide insights for better decision-making. The dataset includes energy consumption records from various sites, along with demand levels and associated costs. The analysis involves data cleaning, anomaly detection, and exploratory data analysis (EDA) to uncover trends and outliers.
